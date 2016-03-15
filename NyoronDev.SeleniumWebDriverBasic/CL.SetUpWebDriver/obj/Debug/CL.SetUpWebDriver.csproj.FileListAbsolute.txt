@@ -1,0 +1,7 @@
+C:\GitHub\SeleniumWebDriverBasic\SeleniumWebDriverBasic\NyoronDev.SeleniumWebDriverBasic\CL.SetUpWebDriver\bin\Debug\CL.SetUpWebDriver.dll
+C:\GitHub\SeleniumWebDriverBasic\SeleniumWebDriverBasic\NyoronDev.SeleniumWebDriverBasic\CL.SetUpWebDriver\bin\Debug\CL.SetUpWebDriver.pdb
+C:\GitHub\SeleniumWebDriverBasic\SeleniumWebDriverBasic\NyoronDev.SeleniumWebDriverBasic\CL.SetUpWebDriver\bin\Debug\WebDriver.dll
+C:\GitHub\SeleniumWebDriverBasic\SeleniumWebDriverBasic\NyoronDev.SeleniumWebDriverBasic\CL.SetUpWebDriver\bin\Debug\WebDriver.xml
+C:\GitHub\SeleniumWebDriverBasic\SeleniumWebDriverBasic\NyoronDev.SeleniumWebDriverBasic\CL.SetUpWebDriver\obj\Debug\CL.SetUpWebDriver.csprojResolveAssemblyReference.cache
+C:\GitHub\SeleniumWebDriverBasic\SeleniumWebDriverBasic\NyoronDev.SeleniumWebDriverBasic\CL.SetUpWebDriver\obj\Debug\CL.SetUpWebDriver.dll
+C:\GitHub\SeleniumWebDriverBasic\SeleniumWebDriverBasic\NyoronDev.SeleniumWebDriverBasic\CL.SetUpWebDriver\obj\Debug\CL.SetUpWebDriver.pdb

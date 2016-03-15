@@ -9,3 +9,17 @@ C:\GitHub\SeleniumWebDriverBasic\SeleniumWebDriverBasic\NyoronDev.SeleniumWebDri
 C:\GitHub\SeleniumWebDriverBasic\SeleniumWebDriverBasic\NyoronDev.SeleniumWebDriverBasic\AT.UserStory\obj\Debug\AT.UserStory.csprojResolveAssemblyReference.cache
 C:\GitHub\SeleniumWebDriverBasic\SeleniumWebDriverBasic\NyoronDev.SeleniumWebDriverBasic\AT.UserStory\obj\Debug\AT.UserStory.dll
 C:\GitHub\SeleniumWebDriverBasic\SeleniumWebDriverBasic\NyoronDev.SeleniumWebDriverBasic\AT.UserStory\obj\Debug\AT.UserStory.pdb
+C:\GitHub\SeleniumWebDriverBasic\SeleniumWebDriverBasic\NyoronDev.SeleniumWebDriverBasic\AT.UserStory\bin\Debug\Autofac.dll
+C:\GitHub\SeleniumWebDriverBasic\SeleniumWebDriverBasic\NyoronDev.SeleniumWebDriverBasic\AT.UserStory\bin\Debug\CL.Autofac.dll
+C:\GitHub\SeleniumWebDriverBasic\SeleniumWebDriverBasic\NyoronDev.SeleniumWebDriverBasic\AT.UserStory\bin\Debug\CL.SetUpWebDriver.dll
+C:\GitHub\SeleniumWebDriverBasic\SeleniumWebDriverBasic\NyoronDev.SeleniumWebDriverBasic\AT.UserStory\bin\Debug\PO.Factory.Contracts.dll
+C:\GitHub\SeleniumWebDriverBasic\SeleniumWebDriverBasic\NyoronDev.SeleniumWebDriverBasic\AT.UserStory\bin\Debug\WebDriver.dll
+C:\GitHub\SeleniumWebDriverBasic\SeleniumWebDriverBasic\NyoronDev.SeleniumWebDriverBasic\AT.UserStory\bin\Debug\WebDriver.Support.dll
+C:\GitHub\SeleniumWebDriverBasic\SeleniumWebDriverBasic\NyoronDev.SeleniumWebDriverBasic\AT.UserStory\bin\Debug\CL.Autofac.pdb
+C:\GitHub\SeleniumWebDriverBasic\SeleniumWebDriverBasic\NyoronDev.SeleniumWebDriverBasic\AT.UserStory\bin\Debug\CL.SetUpWebDriver.pdb
+C:\GitHub\SeleniumWebDriverBasic\SeleniumWebDriverBasic\NyoronDev.SeleniumWebDriverBasic\AT.UserStory\bin\Debug\PO.Factory.Contracts.pdb
+C:\GitHub\SeleniumWebDriverBasic\SeleniumWebDriverBasic\NyoronDev.SeleniumWebDriverBasic\AT.UserStory\bin\Debug\Autofac.xml
+C:\GitHub\SeleniumWebDriverBasic\SeleniumWebDriverBasic\NyoronDev.SeleniumWebDriverBasic\AT.UserStory\bin\Debug\WebDriver.xml
+C:\GitHub\SeleniumWebDriverBasic\SeleniumWebDriverBasic\NyoronDev.SeleniumWebDriverBasic\AT.UserStory\bin\Debug\WebDriver.Support.xml
+C:\GitHub\SeleniumWebDriverBasic\SeleniumWebDriverBasic\NyoronDev.SeleniumWebDriverBasic\AT.UserStory\obj\Debug\AT.UserStory.Resources.String.Resource.resources
+C:\GitHub\SeleniumWebDriverBasic\SeleniumWebDriverBasic\NyoronDev.SeleniumWebDriverBasic\AT.UserStory\obj\Debug\AT.UserStory.csproj.GenerateResource.Cache

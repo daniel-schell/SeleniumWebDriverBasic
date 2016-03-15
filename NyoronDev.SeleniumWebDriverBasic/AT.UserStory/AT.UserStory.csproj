@@ -35,7 +35,20 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Autofac, Version=3.5.0.0, Culture=neutral, PublicKeyToken=17863af14b0044da, processorArchitecture=MSIL">
+      <HintPath>..\packages\Autofac.3.5.2\lib\net40\Autofac.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
     <Reference Include="System" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="WebDriver, Version=2.52.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Selenium.WebDriver.2.52.0\lib\net40\WebDriver.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="WebDriver.Support, Version=2.52.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Selenium.Support.2.52.0\lib\net40\WebDriver.Support.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
   </ItemGroup>
   <Choose>
     <When Condition="('$(VisualStudioVersion)' == '10.0' or '$(VisualStudioVersion)' == '') and '$(TargetFrameworkVersion)' == 'v3.5'">
@@ -52,8 +65,21 @@
   <ItemGroup>
     <Compile Include="LogInUS.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Resources\String\Resource.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resource.resx</DependentUpon>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\CL.Autofac\CL.Autofac.csproj">
+      <Project>{6d7d316b-7f2a-404a-8ac4-20cd81150ece}</Project>
+      <Name>CL.Autofac</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CL.SetUpWebDriver\CL.SetUpWebDriver.csproj">
+      <Project>{02ABBF2E-5EB8-475D-8BB7-3647C2BE5376}</Project>
+      <Name>CL.SetUpWebDriver</Name>
+    </ProjectReference>
     <ProjectReference Include="..\DF.Users.Entity\DF.Users.Entity.csproj">
       <Project>{65b75a89-766d-4a8f-87e6-52f329c58a83}</Project>
       <Name>DF.Users.Entity</Name>
@@ -62,10 +88,23 @@
       <Project>{fd7222a2-8f6c-4456-ae60-9c2fd2af65fc}</Project>
       <Name>DF.Users.Values</Name>
     </ProjectReference>
+    <ProjectReference Include="..\PO.Factory.Contracts\PO.Factory.Contracts.csproj">
+      <Project>{7A107DB1-D096-4A38-AC5F-946EC082CD25}</Project>
+      <Name>PO.Factory.Contracts</Name>
+    </ProjectReference>
     <ProjectReference Include="..\PO.Factory\PO.Factory.csproj">
       <Project>{913ab646-89f5-4739-9164-2db2d42e94f5}</Project>
       <Name>PO.Factory</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Resources\String\Resource.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resource.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
   </ItemGroup>
   <Choose>
     <When Condition="'$(VisualStudioVersion)' == '10.0' And '$(IsCodedUITest)' == 'True'">
