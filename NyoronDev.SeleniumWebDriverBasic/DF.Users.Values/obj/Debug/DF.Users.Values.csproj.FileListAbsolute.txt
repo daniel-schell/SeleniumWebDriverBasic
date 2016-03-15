@@ -1,0 +1,9 @@
+C:\GitHub\SeleniumWebDriverBasic\SeleniumWebDriverBasic\NyoronDev.SeleniumWebDriverBasic\DF.Users.Values\bin\Debug\DF.Users.Values.dll
+C:\GitHub\SeleniumWebDriverBasic\SeleniumWebDriverBasic\NyoronDev.SeleniumWebDriverBasic\DF.Users.Values\bin\Debug\DF.Users.Values.pdb
+C:\GitHub\SeleniumWebDriverBasic\SeleniumWebDriverBasic\NyoronDev.SeleniumWebDriverBasic\DF.Users.Values\bin\Debug\DF.Users.Entity.dll
+C:\GitHub\SeleniumWebDriverBasic\SeleniumWebDriverBasic\NyoronDev.SeleniumWebDriverBasic\DF.Users.Values\bin\Debug\DF.Users.Entity.pdb
+C:\GitHub\SeleniumWebDriverBasic\SeleniumWebDriverBasic\NyoronDev.SeleniumWebDriverBasic\DF.Users.Values\obj\Debug\DF.Users.Values.csprojResolveAssemblyReference.cache
+C:\GitHub\SeleniumWebDriverBasic\SeleniumWebDriverBasic\NyoronDev.SeleniumWebDriverBasic\DF.Users.Values\obj\Debug\DF.Users.Values.Resources.String.Resource.resources
+C:\GitHub\SeleniumWebDriverBasic\SeleniumWebDriverBasic\NyoronDev.SeleniumWebDriverBasic\DF.Users.Values\obj\Debug\DF.Users.Values.csproj.GenerateResource.Cache
+C:\GitHub\SeleniumWebDriverBasic\SeleniumWebDriverBasic\NyoronDev.SeleniumWebDriverBasic\DF.Users.Values\obj\Debug\DF.Users.Values.dll
+C:\GitHub\SeleniumWebDriverBasic\SeleniumWebDriverBasic\NyoronDev.SeleniumWebDriverBasic\DF.Users.Values\obj\Debug\DF.Users.Values.pdb
