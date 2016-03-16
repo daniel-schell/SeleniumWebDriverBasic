@@ -9,21 +9,15 @@ using OpenQA.Selenium;
 namespace PO.Factory.Contracts
 {
     /// <summary>
-    /// Interface IIndex 
-    /// http://demo.guru99.com/V4/index.php
+    /// Interface IManagerhomepage
+    /// http://demo.guru99.com/V4/manager/Managerhomepage.php
     /// </summary>
-    public interface IIndex
+    public interface IManagerhomepage
     {
         // Sets the web driver.
         void SetWebDriver(IWebDriver webDriver);
 
-        // Logs the user.
-        void LogInUser(User user);
-
-        // Clicks the login.
-        void ClickLogin();
-
-        // Determines whether [is pop up visible].
-        bool IsPopUpVisible();
+        // Determines whether [is manager identifier correct] [the specified user].
+        bool IsManagerIdCorrect(User user);
     }
 }

@@ -32,6 +32,7 @@ namespace CL.Autofac
             var c = new ContainerBuilder();
 
             c.RegisterType<Index>().As<IIndex>();
+            c.RegisterType<Managerhomepage>().As<IManagerhomepage>();
 
             BuildContainer = c.Build();
         }

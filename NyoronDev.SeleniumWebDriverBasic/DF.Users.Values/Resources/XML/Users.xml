@@ -4,4 +4,8 @@
     <UserId>mngr32226</UserId>
     <UserPassword>hytydAp</UserPassword>
   </User>
+  <User>
+    <UserId>mngr32226</UserId>
+    <UserPassword>wrongpassword</UserPassword>
+  </User>
 </ArrayOfUser>

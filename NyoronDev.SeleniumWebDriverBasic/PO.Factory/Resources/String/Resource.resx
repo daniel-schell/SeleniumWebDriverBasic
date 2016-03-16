@@ -123,4 +123,7 @@
   <data name="ERROR_WebDriverException_Message" xml:space="preserve">
     <value>Class: {0}, Method: {1}, WebDriverException Message: {2}</value>
   </data>
+  <data name="SELENIUM_ManagerId" xml:space="preserve">
+    <value>Manger Id : {0}</value>
+  </data>
 </root>

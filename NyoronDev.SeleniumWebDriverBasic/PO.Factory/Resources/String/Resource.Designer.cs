@@ -77,5 +77,14 @@ namespace PO.Factory.Resources.String {
                 return ResourceManager.GetString("ERROR_WebDriverException_Message", resourceCulture);
             }
         }
+        
+        /// <summary>
+        ///   Busca una cadena traducida similar a Manger Id : {0}.
+        /// </summary>
+        internal static string SELENIUM_ManagerId {
+            get {
+                return ResourceManager.GetString("SELENIUM_ManagerId", resourceCulture);
+            }
+        }
     }
 }
