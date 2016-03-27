@@ -48,6 +48,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Addcustomerpage.cs" />
     <Compile Include="Index.cs" />
     <Compile Include="Managerhomepage.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -61,6 +62,10 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\DF.Customers.Entity\DF.Customers.Entity.csproj">
+      <Project>{ECA96956-28BD-4739-B96B-B4B95CC1EE1C}</Project>
+      <Name>DF.Customers.Entity</Name>
+    </ProjectReference>
     <ProjectReference Include="..\DF.Users.Entity\DF.Users.Entity.csproj">
       <Project>{65b75a89-766d-4a8f-87e6-52f329c58a83}</Project>
       <Name>DF.Users.Entity</Name>

@@ -29,12 +29,12 @@ namespace DF.Users.Values
         /// </summary>
         static UsersValues()
         {
-            XmlSerializer selializeUserList = new XmlSerializer(typeof(List<User>));
+            XmlSerializer serializeUserList = new XmlSerializer(typeof(List<User>));
 
             var path = Path.Combine(Directory.GetParent(Directory.GetCurrentDirectory()).Parent.Parent.FullName, Resources.String.Resource.USERS_XMLPATH);
             using (FileStream fileUserList = File.OpenRead(path))
             {
-                UserList = (IEnumerable<User>) selializeUserList.Deserialize(fileUserList);
+                UserList = (IEnumerable<User>) serializeUserList.Deserialize(fileUserList);
             }
         }
 

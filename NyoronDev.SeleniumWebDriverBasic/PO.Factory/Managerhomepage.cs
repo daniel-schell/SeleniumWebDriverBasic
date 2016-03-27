@@ -76,6 +76,5 @@ namespace PO.Factory
 		}
 	
 		#endregion
-
-	}
+    }
 }

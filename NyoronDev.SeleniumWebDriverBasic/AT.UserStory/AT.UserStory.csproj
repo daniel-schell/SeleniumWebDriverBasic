@@ -70,6 +70,7 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>Resource.resx</DependentUpon>
     </Compile>
+    <Compile Include="AddCustomerUS.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\CL.Autofac\CL.Autofac.csproj">
