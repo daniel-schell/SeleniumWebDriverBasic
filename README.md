@@ -38,7 +38,8 @@ Cross Layer
 - http://www.seleniumhq.org/projects/webdriver/
 - WebDriver is a tool for automating web application testing, and in particular to verify that they work as expected. It aims to provide a friendly API that's easy to explore and understand, easier to use than the Selenium-RC (1.0) API, which will help to make your tests easier to read and maintain.
 
-# Page Object / Page Factory Patterns  http://www.seleniumhq.org/docs/06_test_design_considerations.jsp#page-object-design-pattern
+# Page Object / Page Factory Patterns  
+- http://www.seleniumhq.org/docs/06_test_design_considerations.jsp#page-object-design-pattern
 - Page Object is a Design Pattern which has become popular in test automation for enhancing test maintenance and reducing code duplication. A page object is an object-oriented class that serves as an interface to a page of your AUT. The tests then use the methods of this page object class whenever they need to interact with the UI of that page. The benefit is that if the UI changes for the page, the tests themselves don’t need to change, only the code within the page object needs to change. Subsequently all changes to support that new UI are located in one place.
 
 # SpecFLow
@@ -46,7 +47,7 @@ Cross Layer
  - SpecFlow is a tool for writing tests in Gherkin that the business can understand.
  - Gherkin provides Give / When / Then Scenario
  
- # Autofac 
+# Autofac 
  - http://autofac.org/
  - Autofac is an open-source dependency injection (DI) or inversion of control (IoC) container developed on Google 
 
