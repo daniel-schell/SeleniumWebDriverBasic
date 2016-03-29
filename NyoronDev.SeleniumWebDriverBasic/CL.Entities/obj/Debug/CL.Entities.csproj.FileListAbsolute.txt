@@ -1,0 +1,5 @@
+C:\GitHub\SeleniumWebDriverBasic\SeleniumWebDriverBasic\NyoronDev.SeleniumWebDriverBasic\CL.Entities\bin\Debug\CL.Entities.dll
+C:\GitHub\SeleniumWebDriverBasic\SeleniumWebDriverBasic\NyoronDev.SeleniumWebDriverBasic\CL.Entities\bin\Debug\CL.Entities.pdb
+C:\GitHub\SeleniumWebDriverBasic\SeleniumWebDriverBasic\NyoronDev.SeleniumWebDriverBasic\CL.Entities\obj\Debug\CL.Entities.csprojResolveAssemblyReference.cache
+C:\GitHub\SeleniumWebDriverBasic\SeleniumWebDriverBasic\NyoronDev.SeleniumWebDriverBasic\CL.Entities\obj\Debug\CL.Entities.dll
+C:\GitHub\SeleniumWebDriverBasic\SeleniumWebDriverBasic\NyoronDev.SeleniumWebDriverBasic\CL.Entities\obj\Debug\CL.Entities.pdb

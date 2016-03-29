@@ -1,10 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
 using System.Reflection;
-using System.Text;
-using System.Threading.Tasks;
-using DF.Users.Entity;
+using CL.Entities;
 using OpenQA.Selenium;
 using OpenQA.Selenium.Support.PageObjects;
 using PO.Factory.Contracts;
@@ -67,7 +63,7 @@ namespace PO.Factory
                 _userIdTextBox.SendKeys(user.UserId);
 
                 //Write the UserPassword
-                _userPasswordTextBox.SendKeys(user.UserPassword);
+                _userPasswordTextBox.SendKeys(user.Password);
             }
             catch (WebDriverException ex)
             {

@@ -49,13 +49,13 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\DF.Users.Entity\DF.Users.Entity.csproj">
-      <Project>{65b75a89-766d-4a8f-87e6-52f329c58a83}</Project>
-      <Name>DF.Users.Entity</Name>
-    </ProjectReference>
+    <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="packages.config" />
+    <ProjectReference Include="..\CL.Entities\CL.Entities.csproj">
+      <Project>{16E4CFA9-080E-4FF6-8A52-4AE2D0D57749}</Project>
+      <Name>CL.Entities</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

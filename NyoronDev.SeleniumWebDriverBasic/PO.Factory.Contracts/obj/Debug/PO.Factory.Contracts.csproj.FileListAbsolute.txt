@@ -1,9 +1,9 @@
 C:\GitHub\SeleniumWebDriverBasic\SeleniumWebDriverBasic\NyoronDev.SeleniumWebDriverBasic\PO.Factory.Contracts\bin\Debug\PO.Factory.Contracts.dll
 C:\GitHub\SeleniumWebDriverBasic\SeleniumWebDriverBasic\NyoronDev.SeleniumWebDriverBasic\PO.Factory.Contracts\bin\Debug\PO.Factory.Contracts.pdb
-C:\GitHub\SeleniumWebDriverBasic\SeleniumWebDriverBasic\NyoronDev.SeleniumWebDriverBasic\PO.Factory.Contracts\bin\Debug\DF.Users.Entity.dll
-C:\GitHub\SeleniumWebDriverBasic\SeleniumWebDriverBasic\NyoronDev.SeleniumWebDriverBasic\PO.Factory.Contracts\bin\Debug\DF.Users.Entity.pdb
 C:\GitHub\SeleniumWebDriverBasic\SeleniumWebDriverBasic\NyoronDev.SeleniumWebDriverBasic\PO.Factory.Contracts\obj\Debug\PO.Factory.Contracts.csprojResolveAssemblyReference.cache
 C:\GitHub\SeleniumWebDriverBasic\SeleniumWebDriverBasic\NyoronDev.SeleniumWebDriverBasic\PO.Factory.Contracts\obj\Debug\PO.Factory.Contracts.dll
 C:\GitHub\SeleniumWebDriverBasic\SeleniumWebDriverBasic\NyoronDev.SeleniumWebDriverBasic\PO.Factory.Contracts\obj\Debug\PO.Factory.Contracts.pdb
 C:\GitHub\SeleniumWebDriverBasic\SeleniumWebDriverBasic\NyoronDev.SeleniumWebDriverBasic\PO.Factory.Contracts\bin\Debug\WebDriver.dll
 C:\GitHub\SeleniumWebDriverBasic\SeleniumWebDriverBasic\NyoronDev.SeleniumWebDriverBasic\PO.Factory.Contracts\bin\Debug\WebDriver.xml
+C:\GitHub\SeleniumWebDriverBasic\SeleniumWebDriverBasic\NyoronDev.SeleniumWebDriverBasic\PO.Factory.Contracts\bin\Debug\CL.Entities.dll
+C:\GitHub\SeleniumWebDriverBasic\SeleniumWebDriverBasic\NyoronDev.SeleniumWebDriverBasic\PO.Factory.Contracts\bin\Debug\CL.Entities.pdb

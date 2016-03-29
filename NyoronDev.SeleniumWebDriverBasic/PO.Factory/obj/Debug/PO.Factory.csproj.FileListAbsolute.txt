@@ -3,13 +3,13 @@ C:\GitHub\SeleniumWebDriverBasic\SeleniumWebDriverBasic\NyoronDev.SeleniumWebDri
 C:\GitHub\SeleniumWebDriverBasic\SeleniumWebDriverBasic\NyoronDev.SeleniumWebDriverBasic\PO.Factory\obj\Debug\PO.Factory.csprojResolveAssemblyReference.cache
 C:\GitHub\SeleniumWebDriverBasic\SeleniumWebDriverBasic\NyoronDev.SeleniumWebDriverBasic\PO.Factory\obj\Debug\PO.Factory.dll
 C:\GitHub\SeleniumWebDriverBasic\SeleniumWebDriverBasic\NyoronDev.SeleniumWebDriverBasic\PO.Factory\obj\Debug\PO.Factory.pdb
-C:\GitHub\SeleniumWebDriverBasic\SeleniumWebDriverBasic\NyoronDev.SeleniumWebDriverBasic\PO.Factory\bin\Debug\DF.Users.Entity.dll
 C:\GitHub\SeleniumWebDriverBasic\SeleniumWebDriverBasic\NyoronDev.SeleniumWebDriverBasic\PO.Factory\bin\Debug\PO.Factory.Contracts.dll
 C:\GitHub\SeleniumWebDriverBasic\SeleniumWebDriverBasic\NyoronDev.SeleniumWebDriverBasic\PO.Factory\bin\Debug\WebDriver.dll
 C:\GitHub\SeleniumWebDriverBasic\SeleniumWebDriverBasic\NyoronDev.SeleniumWebDriverBasic\PO.Factory\bin\Debug\WebDriver.Support.dll
-C:\GitHub\SeleniumWebDriverBasic\SeleniumWebDriverBasic\NyoronDev.SeleniumWebDriverBasic\PO.Factory\bin\Debug\DF.Users.Entity.pdb
 C:\GitHub\SeleniumWebDriverBasic\SeleniumWebDriverBasic\NyoronDev.SeleniumWebDriverBasic\PO.Factory\bin\Debug\PO.Factory.Contracts.pdb
 C:\GitHub\SeleniumWebDriverBasic\SeleniumWebDriverBasic\NyoronDev.SeleniumWebDriverBasic\PO.Factory\bin\Debug\WebDriver.xml
 C:\GitHub\SeleniumWebDriverBasic\SeleniumWebDriverBasic\NyoronDev.SeleniumWebDriverBasic\PO.Factory\bin\Debug\WebDriver.Support.xml
 C:\GitHub\SeleniumWebDriverBasic\SeleniumWebDriverBasic\NyoronDev.SeleniumWebDriverBasic\PO.Factory\obj\Debug\PO.Factory.Resources.String.Resource.resources
 C:\GitHub\SeleniumWebDriverBasic\SeleniumWebDriverBasic\NyoronDev.SeleniumWebDriverBasic\PO.Factory\obj\Debug\PO.Factory.csproj.GenerateResource.Cache
+C:\GitHub\SeleniumWebDriverBasic\SeleniumWebDriverBasic\NyoronDev.SeleniumWebDriverBasic\PO.Factory\bin\Debug\CL.Entities.dll
+C:\GitHub\SeleniumWebDriverBasic\SeleniumWebDriverBasic\NyoronDev.SeleniumWebDriverBasic\PO.Factory\bin\Debug\CL.Entities.pdb

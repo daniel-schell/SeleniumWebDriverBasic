@@ -3,15 +3,15 @@ C:\GitHub\SeleniumWebDriverBasic\SeleniumWebDriverBasic\NyoronDev.SeleniumWebDri
 C:\GitHub\SeleniumWebDriverBasic\SeleniumWebDriverBasic\NyoronDev.SeleniumWebDriverBasic\CL.Autofac\bin\Debug\Autofac.dll
 C:\GitHub\SeleniumWebDriverBasic\SeleniumWebDriverBasic\NyoronDev.SeleniumWebDriverBasic\CL.Autofac\bin\Debug\PO.Factory.Contracts.dll
 C:\GitHub\SeleniumWebDriverBasic\SeleniumWebDriverBasic\NyoronDev.SeleniumWebDriverBasic\CL.Autofac\bin\Debug\PO.Factory.dll
-C:\GitHub\SeleniumWebDriverBasic\SeleniumWebDriverBasic\NyoronDev.SeleniumWebDriverBasic\CL.Autofac\bin\Debug\DF.Users.Entity.dll
 C:\GitHub\SeleniumWebDriverBasic\SeleniumWebDriverBasic\NyoronDev.SeleniumWebDriverBasic\CL.Autofac\bin\Debug\WebDriver.dll
 C:\GitHub\SeleniumWebDriverBasic\SeleniumWebDriverBasic\NyoronDev.SeleniumWebDriverBasic\CL.Autofac\bin\Debug\WebDriver.Support.dll
 C:\GitHub\SeleniumWebDriverBasic\SeleniumWebDriverBasic\NyoronDev.SeleniumWebDriverBasic\CL.Autofac\bin\Debug\PO.Factory.Contracts.pdb
 C:\GitHub\SeleniumWebDriverBasic\SeleniumWebDriverBasic\NyoronDev.SeleniumWebDriverBasic\CL.Autofac\bin\Debug\PO.Factory.pdb
 C:\GitHub\SeleniumWebDriverBasic\SeleniumWebDriverBasic\NyoronDev.SeleniumWebDriverBasic\CL.Autofac\bin\Debug\Autofac.xml
-C:\GitHub\SeleniumWebDriverBasic\SeleniumWebDriverBasic\NyoronDev.SeleniumWebDriverBasic\CL.Autofac\bin\Debug\DF.Users.Entity.pdb
 C:\GitHub\SeleniumWebDriverBasic\SeleniumWebDriverBasic\NyoronDev.SeleniumWebDriverBasic\CL.Autofac\bin\Debug\WebDriver.xml
 C:\GitHub\SeleniumWebDriverBasic\SeleniumWebDriverBasic\NyoronDev.SeleniumWebDriverBasic\CL.Autofac\bin\Debug\WebDriver.Support.xml
 C:\GitHub\SeleniumWebDriverBasic\SeleniumWebDriverBasic\NyoronDev.SeleniumWebDriverBasic\CL.Autofac\obj\Debug\CL.Autofac.csprojResolveAssemblyReference.cache
 C:\GitHub\SeleniumWebDriverBasic\SeleniumWebDriverBasic\NyoronDev.SeleniumWebDriverBasic\CL.Autofac\obj\Debug\CL.Autofac.dll
 C:\GitHub\SeleniumWebDriverBasic\SeleniumWebDriverBasic\NyoronDev.SeleniumWebDriverBasic\CL.Autofac\obj\Debug\CL.Autofac.pdb
+C:\GitHub\SeleniumWebDriverBasic\SeleniumWebDriverBasic\NyoronDev.SeleniumWebDriverBasic\CL.Autofac\bin\Debug\CL.Entities.dll
+C:\GitHub\SeleniumWebDriverBasic\SeleniumWebDriverBasic\NyoronDev.SeleniumWebDriverBasic\CL.Autofac\bin\Debug\CL.Entities.pdb

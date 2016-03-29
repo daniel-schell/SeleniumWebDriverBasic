@@ -1,10 +1,6 @@
 C:\GitHub\SeleniumWebDriverBasic\SeleniumWebDriverBasic\NyoronDev.SeleniumWebDriverBasic\AT.UserStory\bin\Debug\AT.UserStory.dll
 C:\GitHub\SeleniumWebDriverBasic\SeleniumWebDriverBasic\NyoronDev.SeleniumWebDriverBasic\AT.UserStory\bin\Debug\AT.UserStory.pdb
-C:\GitHub\SeleniumWebDriverBasic\SeleniumWebDriverBasic\NyoronDev.SeleniumWebDriverBasic\AT.UserStory\bin\Debug\DF.Users.Entity.dll
-C:\GitHub\SeleniumWebDriverBasic\SeleniumWebDriverBasic\NyoronDev.SeleniumWebDriverBasic\AT.UserStory\bin\Debug\DF.Users.Values.dll
 C:\GitHub\SeleniumWebDriverBasic\SeleniumWebDriverBasic\NyoronDev.SeleniumWebDriverBasic\AT.UserStory\bin\Debug\PO.Factory.dll
-C:\GitHub\SeleniumWebDriverBasic\SeleniumWebDriverBasic\NyoronDev.SeleniumWebDriverBasic\AT.UserStory\bin\Debug\DF.Users.Entity.pdb
-C:\GitHub\SeleniumWebDriverBasic\SeleniumWebDriverBasic\NyoronDev.SeleniumWebDriverBasic\AT.UserStory\bin\Debug\DF.Users.Values.pdb
 C:\GitHub\SeleniumWebDriverBasic\SeleniumWebDriverBasic\NyoronDev.SeleniumWebDriverBasic\AT.UserStory\bin\Debug\PO.Factory.pdb
 C:\GitHub\SeleniumWebDriverBasic\SeleniumWebDriverBasic\NyoronDev.SeleniumWebDriverBasic\AT.UserStory\obj\Debug\AT.UserStory.csprojResolveAssemblyReference.cache
 C:\GitHub\SeleniumWebDriverBasic\SeleniumWebDriverBasic\NyoronDev.SeleniumWebDriverBasic\AT.UserStory\obj\Debug\AT.UserStory.dll
@@ -23,3 +19,9 @@ C:\GitHub\SeleniumWebDriverBasic\SeleniumWebDriverBasic\NyoronDev.SeleniumWebDri
 C:\GitHub\SeleniumWebDriverBasic\SeleniumWebDriverBasic\NyoronDev.SeleniumWebDriverBasic\AT.UserStory\bin\Debug\WebDriver.Support.xml
 C:\GitHub\SeleniumWebDriverBasic\SeleniumWebDriverBasic\NyoronDev.SeleniumWebDriverBasic\AT.UserStory\obj\Debug\AT.UserStory.Resources.String.Resource.resources
 C:\GitHub\SeleniumWebDriverBasic\SeleniumWebDriverBasic\NyoronDev.SeleniumWebDriverBasic\AT.UserStory\obj\Debug\AT.UserStory.csproj.GenerateResource.Cache
+C:\GitHub\SeleniumWebDriverBasic\SeleniumWebDriverBasic\NyoronDev.SeleniumWebDriverBasic\AT.UserStory\bin\Debug\AT.UserStory.dll.config
+C:\GitHub\SeleniumWebDriverBasic\SeleniumWebDriverBasic\NyoronDev.SeleniumWebDriverBasic\AT.UserStory\bin\Debug\nunit.framework.dll
+C:\GitHub\SeleniumWebDriverBasic\SeleniumWebDriverBasic\NyoronDev.SeleniumWebDriverBasic\AT.UserStory\bin\Debug\TechTalk.SpecFlow.dll
+C:\GitHub\SeleniumWebDriverBasic\SeleniumWebDriverBasic\NyoronDev.SeleniumWebDriverBasic\AT.UserStory\bin\Debug\nunit.framework.xml
+C:\GitHub\SeleniumWebDriverBasic\SeleniumWebDriverBasic\NyoronDev.SeleniumWebDriverBasic\AT.UserStory\bin\Debug\CL.Entities.dll
+C:\GitHub\SeleniumWebDriverBasic\SeleniumWebDriverBasic\NyoronDev.SeleniumWebDriverBasic\AT.UserStory\bin\Debug\CL.Entities.pdb
