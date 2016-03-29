@@ -49,3 +49,5 @@ SpecFLow http://www.specflow.org/
 
 IDE: Visual Studio 2012
 Created with C#, SpecFLow and Firefox WebDriver.
+
+If you have any question please, contact me jsernajaen@gmail.com or https://www.linkedin.com/in/juansernajaen
