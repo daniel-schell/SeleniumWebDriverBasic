@@ -30,6 +30,8 @@ PageObject Factory Project
 
 Acceptance Tests
 - Solution for acceptance tests, use the PageObject Factory Project.
+	- Features: Acceptance Criteria Scenarios
+	- Tests Files: Coded Features
 
 Cross Layer
 - Helpers.
